@@ -1,0 +1,17 @@
+C:\Users\Hüseyin\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe.config
+C:\Users\Hüseyin\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe
+C:\Users\Hüseyin\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.pdb
+C:\Users\Hüseyin\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.GenerateResource.Cache
+C:\Users\Hüseyin\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.exe
+C:\Users\Hüseyin\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.pdb
+C:\Users\Hüseyin\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Frmistatistik.resources
+C:\Users\Hüseyin\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmAnaForm.resources
+C:\Users\Hüseyin\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmGrafikler.resources
+C:\Users\Hüseyin\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmGiris.resources
+C:\Users\Hüseyin\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Hüseyin\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Hüseyin\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Hüseyin\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Hüseyin\Desktop\Udemy Projeler\Personel_Kayit\Personel_Kayit\bin\Debug\Microsoft.SqlServer.Types.dll
